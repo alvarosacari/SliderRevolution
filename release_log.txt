@@ -3,7 +3,7 @@ version 4.3.6 SkyWood (16th Aptil 2014)
 CHANGES
 Ken Burns and Pan Zoom Effect Engine Change. Animation based on Img rotations and Zooms, Transitions instead of Background animation. Due this change the Aniamtions become really Smooth and Clean.
 
-##########################################################################################	
+##########################################################################################
 
 
 
@@ -12,9 +12,9 @@ Version 4.3.5 SkyWood (09th April 2014)
 BUGFIXES
 Fixed Click and Taps bugs on Elements in Slider viewing Slider in Mobile Devices
 Fixed Positions of Videos after leaving Fullscreen Video Playback
-Fixed Element Transitions by clicking Next/previous Slider before Elements has been shown. Currently Not Visible Elements will not show up suddenly any more	
+Fixed Element Transitions by clicking Next/previous Slider before Elements has been shown. Currently Not Visible Elements will not show up suddenly any more
 
-##########################################################################################	
+##########################################################################################
 
 
 Version 4.3.4 SkyWood (07th April 2014)
@@ -22,10 +22,10 @@ Version 4.3.4 SkyWood (07th April 2014)
 CHANGES
 Added Swipe Up & Down to scroll below or above the slider on Mobile Devices
 
-##########################################################################################	
+##########################################################################################
 
 
-	
+
 Version 4.3.2 SkyWood (25th March 2014)
 
 NEW FEATURES
@@ -239,7 +239,7 @@ version 3.0 (16.06.2013)
 - Feature: HTML5 Video (videoJS) and added data- options like
            - data-autoplay="true",
            - data-nextslideatend="true"/"false",
-           - option added to laod the HTML5 js files via videoJsPath:"rs-plugin/videojs/"
+           - option added to laod the HTML5 js files via videoJsPath:"../src/videojs/"
 
 - Feature: Shadow now available also in fullwidth mode.
 - Feature: Navigation Position Anywhere also in FullWidht Mode, even outside the Container
@@ -544,4 +544,3 @@ version 1.1.4
 
 version 1.0 - 27.06.2012
 	first release
-
